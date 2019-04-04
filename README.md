@@ -51,6 +51,9 @@ Video: https://youtu.be/Z4j3NrMyeGE
 <br>
 
 <b>6_dm_video.py</b> - builds disparity map in real time.<br>
+
+Video: https://youtu.be/f29arVstfZA
+
 <br>
 
 
