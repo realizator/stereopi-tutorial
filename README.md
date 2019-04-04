@@ -35,7 +35,7 @@ Video: https://youtu.be/3vGrHqLwYHM
 
 <b>3_pairs_cut.py</b> - just cuts all captured photos to left and right images.<br>
 
-Video: https://youtu.be/vP2Aa6Ot6oU
+Video: https://youtu.be/95DWmPECbDc
 
 <br>
 
