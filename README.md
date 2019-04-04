@@ -17,7 +17,7 @@ Ready-to-use Raspbian Image:
 [Download Link 2 (Google Drive)](https://drive.google.com/file/d/15XxYGlfiBkPsNS3JAnE5JViCgBtPzfSX/view?usp=sharing)
 
 
-Brief scripts description:
+## Brief scripts description:
 
 <b>1_test.py</b> - starts camera preview, save captured image if 'Q' button pressed.
 
