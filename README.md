@@ -11,7 +11,10 @@ Was tested in the following environment:
 * StereoVision lib 1.0.3 (https://github.com/erget/StereoVision)
 
 Ready-to-use Raspbian Image:
+
 [Download link 1 (Yandex Disk)](https://yadi.sk/d/LmtW1J71t3q99A)
+
+[Download Link 2 (Google Drive)](https://drive.google.com/file/d/15XxYGlfiBkPsNS3JAnE5JViCgBtPzfSX/view?usp=sharing)
 
 
 Brief scripts description:
