@@ -42,6 +42,9 @@ Video: https://youtu.be/vtPhu23tKGo
 
 
 <b>5_dm_tune.py</b> - script for fine tune of disparity map settings.<br>
+
+Video: https://youtu.be/Z4j3NrMyeGE
+
 <br>
 
 <b>6_dm_video.py</b> - builds disparity map in real time.<br>
