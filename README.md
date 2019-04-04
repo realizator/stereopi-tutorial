@@ -13,8 +13,7 @@ Was tested in the following environment:
 
 Brief scripts description:
 
-<b>1_test.py</b> - starts camera preview, save captured image if 'Q' button pressed. 
-align.
+<b>1_test.py</b> - starts camera preview, save captured image if 'Q' button pressed.
 <br>
 
 <b>2_chess_cycle.py</b> - takes a series of photos for stereopair calibration, shows count
