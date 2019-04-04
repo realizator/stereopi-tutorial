@@ -29,7 +29,7 @@ Video: https://www.youtube.com/watch?v=wllLrNUw3SE
 <b>2_chess_cycle.py</b> - takes a series of photos for stereopair calibration, shows countdown 
 timer. You need a printed chessboard with 9x6 parameters (file "pattern.png" included).
 
-Video: https://youtu.be/3vGrHqLwYHM
+Video: https://youtu.be/1XCAlU3k-xs
 
 <br>
 
