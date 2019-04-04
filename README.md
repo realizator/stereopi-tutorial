@@ -26,8 +26,8 @@ Press 'Q' key in any script for exit, as we added key stroke processing. Do not 
 Video: https://www.youtube.com/watch?v=wllLrNUw3SE
 <br>
 
-<b>2_chess_cycle.py</b> - takes a series of photos for stereopair calibration, shows count
-down timer. You need a printed chessboard with 9x6 parameters (file "pattern.png" included).
+<b>2_chess_cycle.py</b> - takes a series of photos for stereopair calibration, shows countdown 
+timer. You need a printed chessboard with 9x6 parameters (file "pattern.png" included).
 
 Video: https://youtu.be/3vGrHqLwYHM
 
