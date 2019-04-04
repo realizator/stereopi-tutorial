@@ -10,6 +10,9 @@ Was tested in the following environment:
 * Picamera 1.13
 * StereoVision lib 1.0.3 (https://github.com/erget/StereoVision)
 
+Ready-to-use Raspbian Image:
+(Download link 1 (Yandex Disk))[https://yadi.sk/d/LmtW1J71t3q99A]
+ 
 
 Brief scripts description:
 
@@ -24,7 +27,6 @@ down timer. You need a printed chessboard with 9x6 parameters (file "pattern.png
 Video: https://youtu.be/vP2Aa6Ot6oU
 
 <br>
-
 
 <b>3_pairs_cut.py</b> - just cuts all captured photos to left and right images.<br>
 
