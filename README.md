@@ -19,6 +19,8 @@ Ready-to-use Raspbian Image:
 
 ## Brief scripts description:
 
+Press 'Q' key in any script for exit, as we added key stroke processing. Do not kill it by Ctrl+C :) 
+
 <b>1_test.py</b> - starts camera preview, save captured image if 'Q' button pressed.
 
 Video: https://www.youtube.com/watch?v=wllLrNUw3SE
