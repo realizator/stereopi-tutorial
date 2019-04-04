@@ -12,7 +12,7 @@ Was tested in the following environment:
 
 Ready-to-use Raspbian Image:
 (Download link 1 (Yandex Disk))[https://yadi.sk/d/LmtW1J71t3q99A]
- 
+
 
 Brief scripts description:
 
@@ -34,7 +34,10 @@ Video: https://youtu.be/vP2Aa6Ot6oU
 
 <br>
 
-<b>4_calibration.py</b> - calibrate StereoPi cameas setup using pairs from script 4.<br>
+<b>4_calibration.py</b> - calibrate StereoPi cameas setup using pairs from script 4.
+
+Video: https://youtu.be/vtPhu23tKGo
+
 <br>
 
 
