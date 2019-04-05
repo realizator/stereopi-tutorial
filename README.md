@@ -12,9 +12,9 @@ Was tested in the following environment:
 
 Ready-to-use Raspbian Image:
 
-[Download link 1 (Yandex Disk)](https://yadi.sk/d/LmtW1J71t3q99A)
+[Download link 1 (Yandex Disk)](https://yadi.sk/d/KWYOwR3IIgTzAA)
 
-[Download Link 2 (Google Drive)](https://drive.google.com/file/d/15XxYGlfiBkPsNS3JAnE5JViCgBtPzfSX/view?usp=sharing)
+[Download Link 2 (Google Drive)](https://drive.google.com/open?id=1sM37cT6dTlZHhSRIz4Z9oEJk_xbR7pLL)
 
 
 ## Brief scripts description:
