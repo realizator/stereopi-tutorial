@@ -3,6 +3,8 @@ StereoPi tutorial scripts
 
 Set of Disparity Map tutorial scripts for StereoPi board with CM3/3+ inside.
 
+Brief tutorial: [our post on Medium](https://medium.com/stereopi/opencv-and-depth-map-on-stereopi-tutorial-62cb6792bbed)
+
 Was tested in the following environment:
 * Raspbian Stretch (kernel 4.14.98-v7+)
 * Python 3.5.3 
