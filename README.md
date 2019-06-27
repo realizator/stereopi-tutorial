@@ -24,9 +24,7 @@ I'd like to thank tuxlifan user for this information!
 WARNING for Linux users: please do NOT use unzip to extract the zip file but use "7z e stereopi-opencv-20190405.zip" instead.
 
 Checksum for stereopi-opencv-20190405.zip file is:
-
 sha256: 6c7a5714db03aae07aeb009483f3fcd0fa43356280da071fdc3bad31dfe6f0c4
-
 md5: fa82c9b997f6797c8445602b933b6ae4)
 
 md5sum using unzip (and getting an error message about "Bad CRC"): 3ce7a63479ffa65fc923297d1fa01792
