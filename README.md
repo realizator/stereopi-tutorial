@@ -13,7 +13,7 @@ Was tested in the following environment:
 * StereoVision lib 1.0.3 (https://github.com/erget/StereoVision)
 
 ### Critical notice!
-In the latest Raspbian kernels stereoscopic support has been occasionally broken by implementing new AWB algorithm. You can read some details [here](https://github.com/raspberrypi/firmware/issues/1253). Our Raspbian images provided has no such a problem, but you can get it after 'apt-get upgrade' or 'rpi-update'.
+In the latest Raspbian kernels stereoscopic support has been occasionally broken by implementing new AWB algorithm. You can read some details [here](https://github.com/raspberrypi/firmware/issues/1253). Our Raspbian image provided has no such a problem, but you can get it after 'apt-get upgrade' or 'rpi-update'.
 
 Current solution: after boot run once this command before accessing your cameras:
 ```
